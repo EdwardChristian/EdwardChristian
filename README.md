@@ -2,6 +2,7 @@
 - 👀 I’m interested in Software Engineering, Data Engineering and proving computer science theories and models through video games
 - 🌱 I’m currently a final year student at the University of Kent
 - 📫 How to reach me: https://www.linkedin.com/in/edwardchristianmarin/
+- 🏆 Leetcode profile: https://leetcode.com/EdwardChristian/
 
 <!---
 EdwardChristian/EdwardChristian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
